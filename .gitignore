@@ -1,0 +1,8 @@
+/.settings
+/.project
+/lift2merge
+/.idea
+*.iml
+/target
+*.launch
+/idea_plugin_jetty_runner
